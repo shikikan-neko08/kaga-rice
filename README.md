@@ -20,4 +20,5 @@
 
 # Notes
 * If you are installing this on systemd , don't forget to change the loginctl
- command to systemctl
+ command to systemctl on clearine.conf and polybar config
+* Polybar is disabled by default. to enable it run "launchbar" if you are on zsh shell. or uncomment the launch.sh on i3/config
