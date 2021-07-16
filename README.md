@@ -1,7 +1,5 @@
 # kaga-rice
 
-# nekopara-dots
-
 ![enter image description here](https://github.com/shikikan-neko08/kaga-rice/blob/main/2021-07-16-161046_1360x768_scrot.png)
 
 
