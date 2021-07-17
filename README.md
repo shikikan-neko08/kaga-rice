@@ -12,7 +12,7 @@
 * Icons     : Papirus
 * OS        : Artix Linux
 * Terminal  : Kitty
-* Bar       : Polynar
+* Bar       : Polybar
 
 # Installation
 
