@@ -16,7 +16,11 @@
 * install the required fonts
 * copy all .config files to your .config directory
 * copy all .themes, .icons folders to your home directory
-* install oh-my zsh then manually move ohmyzsh directory as well as zshrc
+* install oh-my zsh then manually then move .zshrc into your home directory
+* install pywal and move .cache/wal into your .cache directory
+* install [vim-plug](https://github.com/junegunn/vim-plug)
+* copy vimrc into .vim directory
+* manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall
 
 # Notes
 * If you are installing this on systemd , don't forget to change the loginctl
