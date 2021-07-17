@@ -41,8 +41,8 @@
 * Clone this repository
 * Install [Starship Prompt](https://starship.rs/)
 * install the required fonts by copying .fonts directory to your home directory      
-**Note : for Source han and ttf-font-awesome, install it from your repository**          
-**Arch : sudo pacman -S adobe-source-han-sans-jp-fonts ttf-font-awesome**
+> **Note : for Source han and ttf-font-awesome, install it from your repository**          
+> **Arch : sudo pacman -S adobe-source-han-sans-jp-fonts ttf-font-awesome**
 * copy all .config files to your .config directory
 * copy all .themes, .icons folders to your home directory
 * install oh-my zsh then manually then move .zshrc into your home directory
@@ -51,6 +51,8 @@
 * copy vimrc into .vim directory
 * manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall   
 * Set the wallpaper using nitrogen  
+* Set Lockscreen Wallpaper using this command      
+> betterlockscreen -u /path/to/wallpaper_kaga.png
 
 To apply The GTK Theme and icons, you can use LXappearance    
 
