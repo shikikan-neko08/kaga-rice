@@ -22,6 +22,17 @@
 * Bar       : Polybar
 * Icon      : [Papirus Folders (Install it from here)](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
+# Dependecies
+ * [Clearine (Power Menu)](https://github.com/okitavera/clearine)
+ * [Rofi](https://github.com/davatorium/rofi)
+ * [kitty](https://github.com/kovidgoyal/kitty)
+ * [i3-gaps](https://github.com/Airblader/i3)
+ * [Polybar](https://github.com/polybar/polybar)
+ * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)     
+ 
+ Some of this packages might be available on your distro's repository, please refer to your distro manual.     
+ If you are using Arch Linux Based Distro (Alter Linux, Manjaro, EndeavourOS, etc...), You could use AUR For These Packages.
+
 # Installation
 
 **Important : Make sure to backup your existing configuration files before installing to avoid loss**     
