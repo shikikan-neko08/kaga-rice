@@ -18,7 +18,7 @@
 
 **Important : Make sure to backup your existing configuration files before installing to avoid loss**     
 
-
+* Install the dependencies
 * Clone this repository
 * install the required fonts by copying .fonts directory to your home directory      
 **Note : for Source han and ttf-font-awesome, install it from your repository**          
