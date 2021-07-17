@@ -16,11 +16,11 @@
 # Installation
 
 **Important : Make sure to backup your existing configuration files before installing to avoid loss**
+**Note : for Source han and ttf-font-awesome, install it from your repository**
+**Arch : sudo pacman -S adobe-source-han-sans-jp-fonts ttf-font-awesome**
 
 * Clone this repository
 * install the required fonts by copying .fonts directory to your home directory
-**Note : for Source han and ttf-font-awesome, install it from your repository**
-**Arch : sudo pacman -S adobe-source-han-sans-jp-fonts ttf-font-awesome**
 * copy all .config files to your .config directory
 * copy all .themes, .icons folders to your home directory
 * install oh-my zsh then manually then move .zshrc into your home directory
