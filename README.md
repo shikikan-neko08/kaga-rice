@@ -32,7 +32,7 @@
 * copy vimrc into .vim directory
 * manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall     
 
-To apply and icons The GTK Theme, you can use LXappearance    
+To apply The GTK Theme and icons, you can use LXappearance    
 
 
 # Notes
