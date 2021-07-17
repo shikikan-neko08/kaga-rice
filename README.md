@@ -13,6 +13,7 @@
 * OS        : Artix Linux
 * Terminal  : Kitty
 * Bar       : Polybar
+* Icon      : [Papirus Folders (Install it from here)](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
 # Installation
 
@@ -29,7 +30,10 @@
 * install pywal and move .cache/wal into your .cache directory
 * install [vim-plug](https://github.com/junegunn/vim-plug)
 * copy vimrc into .vim directory
-* manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall
+* manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall     
+
+To apply and icons The GTK Theme, you can use LXappearance    
+
 
 # Notes
 * If you are installing this on systemd , don't forget to change the loginctl
