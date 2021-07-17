@@ -2,6 +2,8 @@
 
 ![enter image description here](https://github.com/shikikan-neko08/kaga-rice/blob/main/2021-07-16-161046_1360x768_scrot.png)
 
+** Kaga - Azur Lane (アズールレーン) **
+
 
 # Details
 * Font Used : Iosevka Custom
@@ -12,6 +14,9 @@
 * Bar       : Polynar
 
 # Installation
+
+**Important : Make sure to backup your existing configuration files before installing to avoid loss**
+
 * Clone this repository
 * install the required fonts
 * copy all .config files to your .config directory
