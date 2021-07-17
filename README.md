@@ -1,7 +1,9 @@
 # kaga-rice
 
 
-![enter image description here](https://github.com/shikikan-neko08/kaga-rice/blob/main/2021-07-17-234906_1360x768_scrot.png)      
+![enter image description here](https://github.com/shikikan-neko08/kaga-rice/blob/main/2021-07-17-234906_1360x768_scrot.png) 
+
+![enter image description here](https://github.com/shikikan-neko08/kaga-rice/blob/main/2021-07-18-053443_1360x768_scrot.png)  
       
 ![enter image description here](https://github.com/shikikan-neko08/kaga-rice/blob/main/2021-07-16-161046_1360x768_scrot.png)      
 
