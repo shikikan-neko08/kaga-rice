@@ -38,7 +38,8 @@
 * install pywal and move .cache/wal into your .cache directory
 * install [vim-plug](https://github.com/junegunn/vim-plug)
 * copy vimrc into .vim directory
-* manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall     
+* manually install the plug by opening vimrc using vim then instal the plugin using :PlugInstall   
+* Set the wallpaper using nitrogen  
 
 To apply The GTK Theme and icons, you can use LXappearance    
 
