@@ -15,8 +15,8 @@
 
 # Installation
 
-**Important : Make sure to backup your existing configuration files before installing to avoid loss**
-**Note : for Source han and ttf-font-awesome, install it from your repository**
+**Important : Make sure to backup your existing configuration files before installing to avoid loss**     
+**Note : for Source han and ttf-font-awesome, install it from your repository**     
 **Arch : sudo pacman -S adobe-source-han-sans-jp-fonts ttf-font-awesome**
 
 * Clone this repository
