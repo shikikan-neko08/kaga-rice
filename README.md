@@ -31,8 +31,8 @@
  * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)    
  * nitrogen 
  
- Some of this packages might be available on your distro's repository, please refer to your distro manual.     
- If you are using Arch Linux Based Distro (Alter Linux, Manjaro, EndeavourOS, etc...), You could use AUR For These Packages.
+ Some of this packages might be available on your distro's repository, please refer to your distro package manager.     
+ If you are using Arch Linux Based Distro (Alter Linux, Manjaro, EndeavourOS, etc...), You can use AUR For Those Packages.
 
 # Installation
 
