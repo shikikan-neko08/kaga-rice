@@ -12,6 +12,7 @@
 * Icons     : Papirus
 * OS        : Artix Linux
 * Terminal  : Kitty
+* Shell     : zsh with [Starship Prompt](https://starship.rs/) 
 * Bar       : Polybar
 * Icon      : [Papirus Folders (Install it from here)](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 
@@ -21,6 +22,7 @@
 
 * Install the dependencies
 * Clone this repository
+* Install [Starship Prompt](https://starship.rs/)
 * install the required fonts by copying .fonts directory to your home directory      
 **Note : for Source han and ttf-font-awesome, install it from your repository**          
 **Arch : sudo pacman -S adobe-source-han-sans-jp-fonts ttf-font-awesome**
