@@ -28,7 +28,8 @@
  * [kitty](https://github.com/kovidgoyal/kitty)
  * [i3-gaps](https://github.com/Airblader/i3)
  * [Polybar](https://github.com/polybar/polybar)
- * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)     
+ * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)    
+ * nitrogen 
  
  Some of this packages might be available on your distro's repository, please refer to your distro manual.     
  If you are using Arch Linux Based Distro (Alter Linux, Manjaro, EndeavourOS, etc...), You could use AUR For These Packages.
