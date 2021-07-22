@@ -65,7 +65,7 @@ To apply The GTK Theme and icons, you can use LXappearance
  command to systemctl on clearine.conf and polybar config
 * Polybar is disabled by default. to enable it run "launchbar" if you are on zsh shell. or uncomment the launch.sh on i3/config
 
-#Changelog
+# Changelog     
 **v0.9**     
 Initial version, with oh-my-zsh prompt not released on github     
 **v0.9.5**     
