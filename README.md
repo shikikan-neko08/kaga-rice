@@ -66,9 +66,9 @@ To apply The GTK Theme and icons, you can use LXappearance
 * Polybar is disabled by default. to enable it run "launchbar" if you are on zsh shell. or uncomment the launch.sh on i3/config
 
 #Changelog
-**v0.9**
-Initial version, with oh-my-zsh prompt not released on github
-**v0.9.5**
-Initial version, with starship prompt
-**v1.0 (current)**
-Version released to github, with polybar
+**v0.9**     
+Initial version, with oh-my-zsh prompt not released on github     
+**v0.9.5**     
+Initial version, with starship prompt    
+**v1.0 (current)**    
+Version released to github, with polybar      
